@@ -2,3 +2,6 @@ venv/
 __pycache__/
 .env
 credenciais_bigquery.json
+logs/
+dbt_ecommerce/target/
+dbt_ecommerce/dbt_packages/
