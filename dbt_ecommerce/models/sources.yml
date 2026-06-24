@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: ecommerce-data-pipeline-499213
+    schema: bronze
+    tables:
+      - name: clientes
+      - name: pedidos
+      - name: produtos_api
+      - name: avaliacoes
